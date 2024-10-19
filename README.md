@@ -6,6 +6,7 @@
   [@rainha.](https://discord.com/users/908464652688711680)  
   [@ichbindavidson](https://discord.com/users/329701850037092352)
 
+Discord Sunucumuz (https://discord.gg/fG5dfNpKaq)
 
 <details>
   <summary><b>⚙️ Stat Komutları</b></summary>
