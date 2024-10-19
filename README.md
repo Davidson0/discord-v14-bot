@@ -12,7 +12,7 @@
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **stat**               | ![image](https://media.discordapp.net/attachments/1096404921395453992/1296496896252313600/image.png)    |
-| **top**                | ![image](https://media.discordapp.net/attachments/1096404921395453992/1296496896537399380/image.png)    |
-| **level**              | ![image](https://media.discordapp.net/attachments/1096404921395453992/1296496896537399380/image.png)    |
+| **stat**               | ![image](./images/stat.png)                                                                            |
+| **top**                | ![image](./images/top.png)                                                                             |
+| **level**              | ![image](./images/level.png)                                                                           |
 </details>
